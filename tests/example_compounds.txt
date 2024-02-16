@@ -1,0 +1,3 @@
+# Some example compounds for tests
+CC(Cc1ccc(cc1)C(C(=O)O)C)C
+CC(=O)Nc1ccc(cc1)O
